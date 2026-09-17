@@ -4,7 +4,7 @@ A modern, premium developer portfolio built with React, Vite, Tailwind CSS, and 
 
 ## Live Demo
 
-[https://your-domain.vercel.app]([https://your-domain.vercel.app](https://vikrampatel-02-6ldl6sh7p-vikram-patel.vercel.app/))
+https://vikrampatel-02-6ldl6sh7p-vikram-patel.vercel.app/
 
 ## Tech Stack
 
